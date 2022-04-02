@@ -8,8 +8,9 @@ A full time student and a part time freelance independent entrepreneural leader 
 
 
 <div align="center">
-  [![Spotify](https://novatorem-onxczmcky-justvinh.vercel.app/api/spotify)](https://open.spotify.com/user/31mo2w7rim2nb354mvgsck6b3lva)
 </div>
+
+[![Spotify](https://novatorem-onxczmcky-justvinh.vercel.app/api/spotify)](https://open.spotify.com/user/31mo2w7rim2nb354mvgsck6b3lva)
 
 <!--
 <div align="center">
@@ -34,6 +35,4 @@ A full time student and a part time freelance independent entrepreneural leader 
 
 ------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
 
-Last Edited on: 24/12/2021
