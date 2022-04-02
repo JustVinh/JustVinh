@@ -21,7 +21,6 @@ A full time student and a part time freelance independent entrepreneural leader 
 -->
 
 ## My Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustVinh&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 <p align="left">
