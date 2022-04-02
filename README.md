@@ -32,7 +32,7 @@ A full time student and a part time freelance independent entrepreneural leader 
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=JustVinh&custom_title=Vinh's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev) -->
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=JustVinh&custom_title=Vinh's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/JustVinh) -->
 
 ------
 
